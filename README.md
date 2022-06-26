@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [see here]([https://your-solution-url.co](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flexbox-4-QSpyxcTt)m)
-- Live Site URL: [see here]([https://your-live-site-url.com](https://ernestina404.github.io/order-summary-component/))
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-landing-page-using-flexbox-4-QSpyxcTt
+- Live Site URL: https://ernestina404.github.io/order-summary-component/
 
 ### Built with
 
